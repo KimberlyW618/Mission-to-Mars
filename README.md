@@ -8,20 +8,29 @@ In this challenge the task was to help an aerospace company, SpaceForward (a fic
 - Software:
     - Visual Studio Code (Version: 1.76.2)
     - Jupyter Notebook
-- Data pulled from:
+        - Automated browsing with Splinter
+- Data pulled from public wedsites:
     - Mars NASA News Site https://redplanetscience.com/
     - Mars Temperature Data Site  https://data-class-mars-challenge.s3.amazonaws.com/Mars/index.html  
 
 ## Results
 
 ### Generated Code 
-Deliverable 1: Scrape Titles and Preview Text from Mars News Code
+
+- Deliverable 1: Scrape Titles and Preview Text from Mars News Code
 [deliverables/part_1_mars_news.ipynb](deliverables/part_1_mars_news.ipynb)
 
-Deliverable 2: Scrape and Analyze Mars Weather Data
+- Deliverable 2: Scrape and Analyze Mars Weather Data
 [deliverables/part_2_mars_weather.ipynb](deliverables/part_2_mars_weather.ipynb)
 
 ### Visualizations 
+
+#### Mars News Dictionary
+
+![images/mars_news_dictionary.png](images/mars_news_dictionary.png)
+[images/mars_news_dictionary.png](images/mars_news_dictionary.png)
+
+mars_news_dictionary.png
 
 #### Mars News DataFrame
 
