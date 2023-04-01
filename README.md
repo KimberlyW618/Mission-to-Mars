@@ -22,3 +22,39 @@ Deliverable 2: Scrape and Analyze Mars Weather Data
 [deliverables/part_2_mars_weather.ipynb](deliverables/part_2_mars_weather.ipynb)
 
 ### Visualizations 
+
+#### Mars News DataFrame
+
+![images/news_data_df.png](images/news_data_df.png)
+[images/news_data_df.png](images/news_data_df.png)
+
+
+#### Mars Weather DataFrame
+
+![images/mars_weather_df.png](images/mars_weather_df.png)
+[images/mars_weather_df.png](images/mars_weather_df.png)
+
+
+#### Average Temperature by Month
+
+![images/avg_temp_ordered_bar.png](images/avg_temp_ordered_bar.png)
+[images/avg_temp_ordered_bar.png](images/avg_temp_ordered_bar.png)
+- On average, the third month has the coldest minimum temperature on Mars, and the eighth month is the warmest.
+
+
+#### Average Pressure by Month
+
+![images/avg_pressure_bar.png](images/avg_pressure_bar.png)
+[images/avg_pressure_bar.png](images/avg_pressure_bar.png)
+- Atmospheric pressure is, on average, lowest in the sixth month and highest in the ninth.
+
+
+#### Eearth Days in a Martian Year
+
+![images/mars_years:earth_days.png](images/mars_years:earth_days.png)
+[images/mars_years:earth_days.png](images/mars_years:earth_days.png)
+- The distance from high peak to high peak is roughly 750-1425, or 675 days. A year on Mars appears to be about 675 days from the ploted data. An internet search confirms that a Mars year is equivalent to 687 earth days.
+
+
+
+
