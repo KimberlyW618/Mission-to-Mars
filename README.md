@@ -30,7 +30,6 @@ In this challenge the task was to help an aerospace company, SpaceForward (a fic
 ![images/mars_news_dictionary.png](images/mars_news_dictionary.png)
 [images/mars_news_dictionary.png](images/mars_news_dictionary.png)
 
-mars_news_dictionary.png
 
 #### Mars News DataFrame
 
@@ -42,6 +41,19 @@ mars_news_dictionary.png
 
 ![images/mars_weather_df.png](images/mars_weather_df.png)
 [images/mars_weather_df.png](images/mars_weather_df.png)
+
+#### Mars Months
+
+![images/mars_months.png](images/mars_months.png)
+[images/mars_months.png](images/mars_months.png)
+- There are 12 months on Mars.
+
+
+#### Mars Months
+
+![images/data_days.png](images/data_days.png)
+[images/data_days.png](images/data_days.png)
+- There were 1,867 Martian days' worth of data collectd and analyzed. 
 
 
 #### Average Temperature by Month
